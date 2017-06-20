@@ -1,2 +1,2 @@
-now i'm on dev branch
-now  is now
+creating a new branch is quick AND simple
+stay simple stay naive!
