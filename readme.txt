@@ -7,3 +7,4 @@ creating a new branch is quick AND simple
 stay simple stay naive!
 >>>>>>> feature1
 well , just like this
+dev branch
